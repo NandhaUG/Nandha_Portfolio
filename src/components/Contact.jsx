@@ -15,7 +15,7 @@ export default function Contact() {
           <a className="btn btn-primary" href="mailto:nandhakumar241003@gmail.com">
             <Mail size={16} /> Email Me
           </a>
-          <a className="btn btn-ghost" href="https://www.linkedin.com/in/nandhakumar-n" target="_blank" rel="noopener noreferrer">
+          <a className="btn btn-ghost" href="https://www.linkedin.com/in/nandhakumar-n-50750028b/" target="_blank" rel="noopener noreferrer">
             <Linkedin size={16} /> Connect on LinkedIn
           </a>
         </div>

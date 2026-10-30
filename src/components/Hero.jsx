@@ -34,7 +34,7 @@ export default function Hero() {
             <a href="https://github.com/NandhaUG" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
               <Github size={18} />
             </a>
-            <a href="https://www.linkedin.com/in/nandhakumar-n" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+            <a href="https://www.linkedin.com/in/nandhakumar-n-50750028b/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
               <Linkedin size={18} />
             </a>
             <a href="mailto:nandhakumar241003@gmail.com" aria-label="Email">
