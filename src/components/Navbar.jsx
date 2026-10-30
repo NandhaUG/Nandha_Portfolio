@@ -46,9 +46,10 @@ export default function Navbar() {
           })}
         </nav>
 
-        <a className="btn-resume" href="/Nandhakumar_N_Resume.pdf" download="Nandhakumar_N_Resume.pdf">
-          <Download size={15} /> <span>Resume</span>
-        </a>
+        <a className="btn-resume"    href="/resume.pdf"    download="Nandhakumar_Java_Developer_Resume.pdf">
+      <Download size={15} />
+  <span>Resume</span>
+</a>
         <button className="burger" onClick={() => setOpen((o) => !o)} aria-label="Toggle menu" aria-expanded={open}>
           {open ? <X size={20} /> : <Menu size={20} />}
         </button>
