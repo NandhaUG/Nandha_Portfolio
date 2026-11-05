@@ -20,7 +20,7 @@ const PROJECTS = [
     title: 'Todo List Application',
     desc: 'Built a Todo List application with full CRUD functionality using Spring Boot REST APIs, Spring Data JPA, and MySQL.',
     tech: ['Java', 'Spring Boot', 'Spring Data JPA', 'MySQL', 'REST APIs'],
-    note: 'Built during internship',
+    repo: 'https://github.com/NandhaUG/product_curd_operation.git',
   },
 ]
 
